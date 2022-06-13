@@ -118,6 +118,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## System design
 
+- [ ] [NALSD](https://sre.google/workbook/non-abstract-design/)
 - [ ] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/se/product)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 - [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
