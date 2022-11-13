@@ -43,6 +43,10 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 - [ ] [Linux troubleshooting tools](https://syedali.net/2013/08/20/linux-troubleshooting-tools)
 - [ ] [Linux Performance Analysis in 60,000 Milliseconds](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+- [ ] [strace](https://www.dedoimedo.com/computers/strace.html)
+- [ ] [lsof](https://www.dedoimedo.com/computers/lsof.html)
+- [ ] [Linux system debugging](https://www.dedoimedo.com/computers/linux-system-debugging-super.html)
+- [ ] [SaaS where users can test their Linux troubleshooting skills](https://sadservers.com)
 
 ## Networking
 
@@ -73,6 +77,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ## Infrastructure as code / Configuration management
 
 - [ ] [Terraform](https://learn.hashicorp.com/terraform)
+- [ ] [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
 - [ ] [Ansible](https://github.com/leucos/ansible-tuto)
 
 ## Databases
@@ -83,8 +88,9 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
 - [ ] [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
 - [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
-- [ ] [Data Replication in DBMS](https://www.geeksforgeeks.org/data-replication-in-dbms)
+- [ ] [Database Replication](https://galeracluster.com/library/documentation/tech-desc-introduction.html#database-replication)
 - [ ] [SQL vs. NoSQL Database: When to Use, How to Choose](https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106)
+- [ ] [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 
 ## CI/CD
 
@@ -162,6 +168,8 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Incident Management vs. Incident Response - What's the Difference?](https://rootly.io/blog/incident-management-vs-incident-response-what-s-the-difference)
 - [ ] [Practical Guide to SRE: Using SLOs to Increase Reliability](https://rootly.io/blog/practical-guide-to-sre-using-slos-to-increase-reliability)
 - [ ] [Practical Guide to SRE: Automating On-Call](https://rootly.io/blog/practical-guide-to-sre-automating-on-call)
+- [ ] [Going from Zero to SRE](https://www.squadcast.com/blog/going-from-zero-to-sre)
+- [ ] [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook)
 
 ## Resume
 
