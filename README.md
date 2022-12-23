@@ -2,6 +2,11 @@
 
 This repository is an attempt to consolidate useful resources for Site Reliability Engineer (SRE) interview preparation.
 
+## Contributing
+
+Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are always welcome!
+
 ## Basics
 
 - [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
@@ -73,12 +78,15 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model)
 - [ ] [47 Things To Become a Kubernetes Expert](https://ymmt2005.hatenablog.com/entry/k8s-things)
 - [ ] [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices)
+- [ ] [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
+- [ ] [THE KUBERNETES NETWORKING GUIDE](https://www.tkng.io)
 
 ## Infrastructure as code / Configuration management
 
 - [ ] [Terraform](https://learn.hashicorp.com/terraform)
 - [ ] [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
 - [ ] [Ansible](https://github.com/leucos/ansible-tuto)
+- [ ] [Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial)
 
 ## Databases
 
@@ -112,7 +120,6 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Python For Everyone](https://www.py4e.com/)
 - [ ] [Complete Python Tutorial](https://www.scaler.com/topics/python/)
 
-
 ### Go (Golang)
 
 - [ ] [A tour of Go](https://tour.golang.org)
@@ -122,6 +129,9 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
 - [ ] [Go Design Patterns](https://github.com/tmrts/go-patterns)
 - [ ] [Go Memory Management](https://povilasv.me/go-memory-management)
+- [ ] [Style Guide](https://google.github.io/styleguide/go/guide)
+- [ ] [Style Decisions](https://google.github.io/styleguide/go/decisions)
+- [ ] [Best Practices](https://google.github.io/styleguide/go/best-practices)
 
 ### Big O Notation, Algorithms and Data Structures
 
