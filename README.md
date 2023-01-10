@@ -124,6 +124,7 @@ Contributions are always welcome!
 
 - [ ] [A tour of Go](https://tour.golang.org)
 - [ ] [Go by Example](https://gobyexample.com)
+- [ ] [Go Tutorials & Examples](https://gosamples.dev)
 - [ ] [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [ ] [Getting up and running with Go](http://www.golangprograms.com)
 - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
@@ -165,6 +166,7 @@ Contributions are always welcome!
 - [ ] [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives)
 - [ ] [Setting up Service Monitoring — The Why’s and What’s](https://amitosh.medium.com/the-whys-and-what-s-of-setting-up-service-monitoring-cc1c165ee088)
 - [ ] [How NOT to Measure Latency](https://youtu.be/lJ8ydIuPFeU)
+- [ ] [The four Golden Signals of Kubernetes monitoring](https://sysdig.com/blog/golden-signals-kubernetes)
 
 ## Processes
 
@@ -180,6 +182,7 @@ Contributions are always welcome!
 - [ ] [Practical Guide to SRE: Automating On-Call](https://rootly.io/blog/practical-guide-to-sre-automating-on-call)
 - [ ] [Going from Zero to SRE](https://www.squadcast.com/blog/going-from-zero-to-sre)
 - [ ] [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook)
+- [ ] [Howie guide to post‑incident investigations](https://www.jeli.io/howie/welcome)
 
 ## Resume
 
